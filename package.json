@@ -1,12 +1,12 @@
 {
-  "name": "react-alice-carousel",
+  "name": "@wowmaking/react-alice-carousel",
   "version": "2.4.0",
   "description": "React image gallery, react slideshow carousel, react content rotator",
   "main": "./lib/react-alice-carousel.js",
   "types": "./lib/react-alice-carousel.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxmarinich/react-alice-carousel.git"
+    "url": "git+https://github.com/wowmaking/react-alice-carousel.git"
   },
   "scripts": {
     "remove:nm": "find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +",
@@ -58,9 +58,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxmarinich/react-alice-carousel/issues"
+    "url": "https://github.com/wowmaking/react-alice-carousel/issues"
   },
-  "homepage": "https://github.com/maxmarinich/react-alice-carousel#readme",
+  "homepage": "https://github.com/wowmaking/react-alice-carousel#readme",
   "peerDependencies": {
     "react": ">=15.4"
   },
